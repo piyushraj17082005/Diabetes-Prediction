@@ -5,11 +5,9 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Web%20App-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML%20Model-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](../LICENSE.md)
+[![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](LICENSE.md)
 
 > A full **end-to-end machine learning web application** that predicts the likelihood of diabetes in a patient based on key health diagnostics — from model training to a live Flask deployment.
-
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
 
 </div>
 
@@ -24,7 +22,8 @@
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [App Screenshots](#-app-screenshots)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
+- [References](#-references)
 
 ---
 
@@ -94,7 +93,7 @@ Multiple classifiers were trained and evaluated. The best-performing model was s
 ## 📁 Project Structure
 
 ```
-Diabetes Prediction [END 2 END]/
+Diabetes-Prediction/
 │
 ├── 📂 Dataset/
 │   └── diabetes.csv              # Pima Indians Diabetes dataset
@@ -125,8 +124,8 @@ Diabetes Prediction [END 2 END]/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shsarv/Machine-Learning-Projects.git
-cd "Machine-Learning-Projects/Diabetes Prediction [END 2 END]"
+git clone https://github.com/piyushraj17082005/Diabetes-Prediction.git
+cd Diabetes-Prediction
 ```
 
 ### 2. Create a virtual environment (recommended)
@@ -169,7 +168,8 @@ jupyter notebook notebooks/diabetes_prediction.ipynb
 |:----------:|:-----------------:|
 | User enters 8 health parameters | App displays **Diabetic** or **Not Diabetic** with confidence |
 
-![](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Diabetes%20Prediction%20%5BEND%202%20END%5D/Diabetes-prediction%20deployed/Resource/live1.gif)
+<!-- Add your own demo screenshot or GIF here, e.g.: -->
+<!-- ![Demo](assets/demo.gif) -->
 
 ---
 
@@ -198,8 +198,8 @@ jupyter notebook notebooks/diabetes_prediction.ipynb
 
 <div align="center">
 
-Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
+Built by [Piyush Raj](https://github.com/piyushraj17082005)
 
-⭐ Star the main repo if this helped you!
+⭐ Star this repo if you found it useful!
 
 </div>
